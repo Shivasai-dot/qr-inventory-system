@@ -1,3 +1,5 @@
+**Live demo:** https://qr-inventory-system-4ayz.onrender.com
+
 # QR Code-Based Product Information & Inventory System
 
 Node.js + Express + SQLite backend, Tailwind admin panel, JWT auth, QR generation, sticker printing, in-browser scanner, mobile product page.
